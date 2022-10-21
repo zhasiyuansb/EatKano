@@ -1,5 +1,5 @@
 const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
-//傻逼东西
+
 (function(w) {
     const DEFAULT_I18N_RESOURCE = 'en';
 
