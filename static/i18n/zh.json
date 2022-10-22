@@ -1,6 +1,6 @@
 {
   "lang": "zh",
-  "start": "开始游戏",
+  "start": "开始",
   "normal": "普通模式",
   "endless": "无尽模式",
   "practice": "练习模式",
@@ -18,7 +18,7 @@
   "eat-kano": "吃掉zhuyicheng",
   "default-dfjk": "默认为DFJK",
   "default-20s": "默认为114514秒",
-  "game-title": "新概念音游",
+  "game-title": "聪明的注意成",
   "game-intro1": "从最底下的开始",
   "game-intro2": "看你能得多少分",
   "record-rank": "用于纪录排行(特殊字符会被过滤)",
