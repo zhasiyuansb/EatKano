@@ -1,9 +1,4 @@
-var errm4a = "./music/err.m4a";
-var erraudio = new Audio(errm4a);
-var tapm4a = "./music/tap.m4a";
-var tapaudio = new Audio(tapm4a);
-var endm4a = "./music/end.m4a";
-var endaudio = new Audio(endm4a);
+
 
 
 <!DOCTYPE html>
